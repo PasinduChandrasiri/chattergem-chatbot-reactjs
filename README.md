@@ -1,12 +1,28 @@
-# React + Vite
+# ChatterGem 💎✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**ChatterGem** is a modern, cute, and responsive AI chatbot built with React.js and CSS, powered by the free Google Gemini API. Enjoy real-time conversations, chat history, dark/light themes, and persistent chat—all in a beautiful, portfolio-ready app!
 
-Currently, two official plugins are available:
+[🌐 Live Demo](https://vercel.com/pasindu-chandrasiris-projects/chattergem-chatbot-reactjs)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Chat with Gemini AI:** Ask anything and get intelligent responses.
+- **Chat History:** Easily switch between conversations, rename, or delete chats.
+- **Dark & Light Themes:** Toggle between sleek dark and light modes.
+- **Persistent Storage:** Conversations and preferences are saved in your browser.
+- **Responsive Design:** Looks great on desktop and mobile.
+- **Polished UI:** Animated transitions, collapsible sidebar, and a cute Gemini avatar.
+
+---
+
+## 💡 Credits
+
+- Powered by [Google Gemini API](https://aistudio.google.com/app/apikey)
+- UI icons by [Lucide](https://lucide.dev/)
+- Created with ❤️ by [Your Name]
+
+---
+
+> _ChatterGem: Your friendly Gemini AI companion!_
